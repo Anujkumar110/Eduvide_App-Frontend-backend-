@@ -1,0 +1,33 @@
+# ========================
+# OS & Editors
+# ========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# ========================
+# Backend (Node / TS)
+# ========================
+**/node_modules/
+**/dist/
+**/.env
+**/.env.local
+**/.env.*.local
+serviceAccountKey.json
+*.log
+npm-debug.log*
+
+# ========================
+# Frontend (Android / Flutter)
+# ========================
+**/.gradle/
+**/build/
+**/app/build/
+**/captures/
+**/local.properties
+**/.cxx/
+*.apk
+*.aab
+google-services.json

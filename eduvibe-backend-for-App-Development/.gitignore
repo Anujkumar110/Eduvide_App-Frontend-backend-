@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+*.md
+*.postman_collection.json
+POSTMAN_COLLECTION.json
+temp_uploads/
